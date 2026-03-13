@@ -9,11 +9,11 @@ use Google\Protobuf\Internal\GPBUtil;
 use Google\Protobuf\RepeatedField;
 
 /**
- * Message describing a sparse vector field.
+ * Response for the ExportDataObjects LRO.
  *
- * Generated from protobuf message <code>google.cloud.vectorsearch.v1.SparseVectorField</code>
+ * Generated from protobuf message <code>google.cloud.vectorsearch.v1.ExportDataObjectsResponse</code>
  */
-class SparseVectorField extends \Google\Protobuf\Internal\Message
+class ExportDataObjectsResponse extends \Google\Protobuf\Internal\Message
 {
 
     /**
